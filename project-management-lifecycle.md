@@ -12,7 +12,7 @@ If the decision is made to move forward, the charter is created and the team is 
 
 ### Planning
 
-The planning phase is when all the scheduling and project management documention is created.
+The planning phase is when all the scheduling and project management documentation is created.
 
 ### Executing
 
